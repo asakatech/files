@@ -1,1 +1,6 @@
+# permission list
 20240313-1091-D179-3867-1091D179386B
+
+# delete list
+delete:3F0D87A1-5C6E-4B79-92A5-123456789ABC  # Test
+
